@@ -65,3 +65,5 @@ Bulma uses [autoprefixer](https://github.com/postcss/autoprefixer) to make (most
 ## Copyright and license
 
 Code copyright 2016 Jeremy Thomas. Code released under [the MIT license](https://github.com/jgthms/bulma/blob/master/LICENSE).
+
+<a href="https://htmlpreview.github.io/?https://github.com/4lx9ri4/FrameBULMA/blob/master/index.html">Preview Exo BULMA</a>
